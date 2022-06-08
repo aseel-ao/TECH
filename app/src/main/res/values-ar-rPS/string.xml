@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">متجر تيكنو</string>
+    <string name="register">تسجيل</string>
+    <string name="login_email_hint">الإيميل</string>
+    <string name="login_password_hint">كلمة السر</string>
+    <string name="signup_login_hint">هل لديك حساب؟ تسجيل الدخول</string>
+    <string name="login_signup_hint">Don\'t have an account? Sign Up</string>
+    <string name="login_name_hint">الإسم</string>
+    <string name="login_mobile_number_hint">رقم الهاتف</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">الاعدادات</string>
+
+    <string name="menu_home">الرئيسية</string>
+    <string name="menu_gallery">الاستديو</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="profile">الصفحة الشخصية</string>
+    <string name="category">الفئات</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="offers">العروص</string>
+    <string name="myordeer">طلباتي</string>
+    <string name="newproduct">منتجات جديدة</string>
+    <string name="mycarts">سلتي</string>
+    <string name="description">كان لوريم إيبسوم هو النص الوهمي القياسي في الصناعة منذ القرن الخامس عشر الميلادي ، عندما أخذت طابعة غير معروفة لوحًا من النوع وتدافعت عليه لعمل كتاب عينة.</string>
+    <string name="placed_order_sent">شكرًا لك على شراء منتجنا \ n يرجى العودة مرة أخرى</string>
+    <string name="price_1000">السعر :1000$</string>
+    <string name="descriptionWord">الوصف</string>
+    <string name="add_to_cart">إضافة للسلة</string>
+    <string name="amountNumber">1</string>
+    <string name="login">دخول</string>
+    <string name="loginButton">دخول</string>
+    <string name="toolbar">تفاصيل المنتج</string>
+    <string name="placed_order_top">قد وضعت طلبك</string>
+    <string name="registerWord">تسجيل</string>
+    <string name="sign_up">تسجيل جديد</string>
+    <string name="tech_shop">متجر تيكنو</string>
+    <string name="view_all_product">
+عرض كل المنتجات</string>
+    <string name="name">الاسم</string>
+    <string name="discount">تخفيض:</string>
+    <string name="populer_product">المنتجات الرائجة</string>
+    <string name="view_all">عرض الكل</string>
+    <string name="recomended">مقترحة</string>
+    <string name="explore_product">اكتشف المنتج</string>
+    <string name="search_your_item_here">البحث عن البند الخاص بك هنا ...
+</string>
+    <string name="buy_now">
+اشتري الآن</string>
+    <string name="total_price_is_0">total price is: 0$</string>
+    <string name="you_havent_purchased_anything_yet">لم تشتري أي شيء حتى الآن</string>
+    <string name="sorry_there_is_no_new_product_yet">آسف لا يوجد منتج جديد بعد</string>
+    <string name="phone_number">رقم الهاتف</string>
+    <string name="address">العنوان</string>
+    <string name="update">تحديث</string>
+    <string name="product_name">اسم المنتج</string>
+    <string name="product_price">سعر المنتج</string>
+    <string name="total_quantity">الكمية كاملة</string>
+    <string name="total_price">السعر كامل</string>
+    <string name="discount_20_off">تخفيض:20% عرض</string>
+</resources>

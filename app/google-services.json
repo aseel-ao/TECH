@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "284900663138",
+    "firebase_url": "https://tech-shop-1d3db-default-rtdb.firebaseio.com",
+    "project_id": "tech-shop-1d3db",
+    "storage_bucket": "tech-shop-1d3db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284900663138:android:964e88de16371dec34963b",
+        "android_client_info": {
+          "package_name": "com.example.tech_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284900663138-den59cohq9frse4l5d1lk0m6gnm52003.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tech_shop",
+            "certificate_hash": "00498181380bc44f5378441075a6f65ba7ced8b3"
+          }
+        },
+        {
+          "client_id": "284900663138-7oa1bnplfdju2rqpu35t97fmaq9dsgii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdsttvQmkg6L3jOrb2WKaEe15VRuYJe1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284900663138-7oa1bnplfdju2rqpu35t97fmaq9dsgii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

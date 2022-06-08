@@ -14,6 +14,26 @@
         android:theme="@style/Theme.TECHSHOP"
         tools:targetApi="31">
         <activity
+            android:name=".PlacedOrderActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".NavCategoryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DetailedActivity"
+            android:exported="false"
+            android:parentActivityName=".ViewAllActivity" />
+        <activity
+            android:name=".ViewAllActivity"
+            android:exported="false"
+            android:parentActivityName=".ViewAllActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false"
+            android:label="@string/title_activity_main2"
+            android:theme="@style/Theme.TECHSHOP.NoActionBar" />
+        <activity
             android:name=".RegisterActivity"
             android:exported="false" />
         <activity
@@ -21,18 +41,23 @@
             android:exported="false" />
         <activity
             android:name=".SplashScreen"
-            android:exported="true" >
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".MainActivity"
-            android:exported="true">
 
-        </activity>
+        <service
+            android:name=".PuchNotificationService"
+            android:exported="false"
+            >
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+
     </application>
 
 </manifest>

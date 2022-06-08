@@ -3,10 +3,43 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/BESAN/AndroidStudioProjects/TECHSHOP2/app/src/main/res/drawable/edittext_bg.xml" value="0.2015" />
+        <entry key="..\:/Users/BESAN/AndroidStudioProjects/TECHSHOP2/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.2015" />
+        <entry key="..\:/Users/BESAN/AndroidStudioProjects/TECHSHOP2/app/src/main/res/drawable/ic_baseline_remove_circle_24.xml" value="0.2015" />
+        <entry key="..\:/Users/BESAN/AndroidStudioProjects/TECHSHOP2/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.2015" />
+        <entry key="..\:/Users/BESAN/AndroidStudioProjects/TECHSHOP2/app/src/main/res/drawable/img_border.xml" value="0.2015" />
         <entry key="..\:/Users/BESAN/AndroidStudioProjects/TECHSHOP2/app/src/main/res/drawable/login_button_bk.xml" value="0.2015" />
-        <entry key="..\:/Users/BESAN/AndroidStudioProjects/TECHSHOP2/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/BESAN/AndroidStudioProjects/TECHSHOP2/app/src/main/res/drawable/rounded_edittext.xml" value="0.2015" />
+        <entry key="..\:/Users/BESAN/AndroidStudioProjects/TECHSHOP2/app/src/main/res/drawable/search_bg.xml" value="0.2015" />
+        <entry key="..\:/Users/BESAN/AndroidStudioProjects/TECHSHOP2/app/src/main/res/drawable/side_nav_bar.xml" value="0.2015" />
+        <entry key="..\:/Users/BESAN/AndroidStudioProjects/TECHSHOP2/app/src/main/res/layout/activity_deatiled.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/BESAN/AndroidStudioProjects/TECHSHOP2/app/src/main/res/layout/activity_login.xml" value="0.128" />
+        <entry key="..\:/Users/BESAN/AndroidStudioProjects/TECHSHOP2/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/BESAN/AndroidStudioProjects/TECHSHOP2/app/src/main/res/layout/activity_nav_category.xml" value="0.2" />
+        <entry key="..\:/Users/BESAN/AndroidStudioProjects/TECHSHOP2/app/src/main/res/layout/activity_placed_order.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/BESAN/AndroidStudioProjects/TECHSHOP2/app/src/main/res/layout/activity_rigester.xml" value="0.264" />
         <entry key="..\:/Users/BESAN/AndroidStudioProjects/TECHSHOP2/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
+        <entry key="..\:/Users/BESAN/AndroidStudioProjects/TECHSHOP2/app/src/main/res/layout/activity_view_all.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/BESAN/AndroidStudioProjects/TECHSHOP2/app/src/main/res/layout/app_bar_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/BESAN/AndroidStudioProjects/TECHSHOP2/app/src/main/res/layout/category_item.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/BESAN/AndroidStudioProjects/TECHSHOP2/app/src/main/res/layout/content_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/BESAN/AndroidStudioProjects/TECHSHOP2/app/src/main/res/layout/content_main2.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/BESAN/AndroidStudioProjects/TECHSHOP2/app/src/main/res/layout/fragment_category.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/BESAN/AndroidStudioProjects/TECHSHOP2/app/src/main/res/layout/fragment_home.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/BESAN/AndroidStudioProjects/TECHSHOP2/app/src/main/res/layout/fragment_my_carts.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/BESAN/AndroidStudioProjects/TECHSHOP2/app/src/main/res/layout/fragment_my_order.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/BESAN/AndroidStudioProjects/TECHSHOP2/app/src/main/res/layout/fragment_new_products.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/BESAN/AndroidStudioProjects/TECHSHOP2/app/src/main/res/layout/fragment_offers.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/BESAN/AndroidStudioProjects/TECHSHOP2/app/src/main/res/layout/fragment_profile.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/BESAN/AndroidStudioProjects/TECHSHOP2/app/src/main/res/layout/fragment_slideshow.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/BESAN/AndroidStudioProjects/TECHSHOP2/app/src/main/res/layout/home_cat_items.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/BESAN/AndroidStudioProjects/TECHSHOP2/app/src/main/res/layout/my_cart_item.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/BESAN/AndroidStudioProjects/TECHSHOP2/app/src/main/res/layout/nav_category_detailed_item.xml" value="0.264" />
+        <entry key="..\:/Users/BESAN/AndroidStudioProjects/TECHSHOP2/app/src/main/res/layout/nav_header_main.xml" value="0.264" />
+        <entry key="..\:/Users/BESAN/AndroidStudioProjects/TECHSHOP2/app/src/main/res/layout/populer_item.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/BESAN/AndroidStudioProjects/TECHSHOP2/app/src/main/res/layout/recommended_item.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/BESAN/AndroidStudioProjects/TECHSHOP2/app/src/main/res/layout/view_all_item.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/BESAN/AndroidStudioProjects/TECHSHOP2/app/src/main/res/menu/activity_main_drawer.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>

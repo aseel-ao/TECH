@@ -25,7 +25,7 @@
         android:layout_marginTop="5dp"
         android:fontFamily="sans-serif-medium"
         android:gravity="center"
-        android:text="tech shop"
+        android:text="@string/tech_shop"
         android:textColor="@color/black"
         android:textSize="30sp"
         />

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation2"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.tech_shop.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="com.example.tech_shop.ui.profile.ProfileFragment"
+        android:label="@string/profile"
+        tools:layout="@layout/fragment_profile" />
+
+    <fragment
+        android:id="@+id/nav_category"
+        android:name="com.example.tech_shop.ui.category.CategoryFragment"
+        android:label="@string/category"
+        tools:layout="@layout/fragment_category" />
+    <fragment
+        android:id="@+id/nav_newProduct"
+        android:name="com.example.tech_shop.newProductsFragment"
+        android:label="@string/newproduct"
+        tools:layout="@layout/fragment_new_products" />
+    <fragment
+        android:id="@+id/nav_myOrder"
+        android:name="com.example.tech_shop.myOrderFragment"
+        android:label="@string/myordeer"
+        tools:layout="@layout/fragment_my_order" />
+    <fragment
+        android:id="@+id/nav_offers"
+        android:name="com.example.tech_shop.offersFragment"
+        android:label="@string/offers"
+        tools:layout="@layout/fragment_offers" />
+    <fragment
+        android:id="@+id/nav_mycarts"
+        android:name="com.example.tech_shop.myCartsFragment"
+        android:label="@string/mycarts"
+        tools:layout="@layout/fragment_my_carts" />
+</navigation>
